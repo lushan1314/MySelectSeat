@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- @since 2012/8/21
+        * @author mengxd -->
+    <attr name="tempScrollViewStyle" format="reference"/>
+    
+</resources>

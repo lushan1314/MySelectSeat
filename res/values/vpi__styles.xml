@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- @since 2012/8/21
+        * @author mengxd -->
+    <style name="Theme.TemScrollView" parent="android:Theme">
+        <item name="tempScrollViewStyle">@style/Widget.tempScrollView</item>
+    </style>
+
+   <style name="Widget">
+    </style>
+
+    <style name="Widget.tempScrollView" parent="Widget">
+        <item name="android:scrollbars">vertical|horizontal</item>
+        <item name="android:fadingEdge">vertical|horizontal</item>
+    </style>
+</resources>
